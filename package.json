@@ -1,0 +1,12 @@
+{
+  "name": "highlightjs-code-formatter",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node main.js"
+  },
+  "dependencies": {
+    "highlight.js": "11.9.0"
+  }
+}
